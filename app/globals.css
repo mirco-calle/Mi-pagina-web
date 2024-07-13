@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 html,
-body{
-  color:#fff;
+body {
+  color: #fff;
   background: #1f1934;
 }
 
@@ -12,6 +12,12 @@ main {
   background: #393a47;
   height: 100vh;
   height: 100dvh;
+}
+/* para los puntitos sliders de la pagina de servicios */
+.swiper-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet,
+.swiper-pagination-horizontal.swiper-pagination-bullets
+  .swiper-pagination-bullet {
+  background-color: #f5741c;
 }
 @layer utilities {
   .text-balance {
