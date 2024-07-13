@@ -6,6 +6,7 @@ import {
   Linkedin,
   Twitter,
   Rss,
+  whatsApp,
   Twitch,
   Youtube,
   Crop,
@@ -14,6 +15,7 @@ import {
   Book,
   Rocket,
   Speech,
+  Facebook,
 } from "lucide-react";
 
 export const socialNetworks = [
@@ -29,7 +31,7 @@ export const socialNetworks = [
   },
   {
     id: 3,
-    logo: <Twitter size={30} strokeWidth={1} />,
+    logo: <Facebook size={30} strokeWidth={1} />,
     src: "#!",
   },
   {
