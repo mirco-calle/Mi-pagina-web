@@ -9,8 +9,8 @@ const Introduction = () => {
         <Image
           src="/home-4.png"
           priority
-          width="800"
-          height="800"
+          width="400"
+          height="400"
           alt="Profile pic"
         />
         <div className="flex flex-col justify-center max-w-md">
@@ -37,8 +37,8 @@ const Introduction = () => {
             />
           </h1>
           <p className="mx-auto mb-2 text-xl md:mx-0 md:mb-8">
-            Como desarrollador full stack y diseñador Grafico, me dedico a
-            combinar dise;o y funcionalidad para crear experiencias digitales
+            Como desarrollador frontend y diseñador Grafico, me dedico a
+            combinar diseño y funcionalidad para crear experiencias digitales
             impactantes y accesibles
           </p>
           <div className="flex items-center justify-center gap-3 md:justify-start md:gap-10">

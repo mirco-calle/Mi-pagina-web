@@ -6,7 +6,6 @@ import {
   Linkedin,
   Twitter,
   Rss,
-  whatsApp,
   Twitch,
   Youtube,
   Crop,
